@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "nombre": "Jaguar",
+    "nombreCientifico": "Panthera onca",
+    "imagen": "img/animales/jaguar.png",
+    "categoria": "Mamífero",
+    "habitat": "Selvas tropicales",
+    "datoCurioso": "Es el felino más grande de América y un poderoso símbolo en las culturas prehispánicas."
+  },
+  {
+    "id": 2,
+    "nombre": "Ajolote",
+    "nombreCientifico": "Ambystoma mexicanum",
+    "imagen": "img/animales/ajolote.png",
+    "categoria": "Anfibio",
+    "habitat": "Xochimilco, CDMX",
+    "datoCurioso": "Puede regenerar extremidades perdidas, la médula espinal e incluso partes de su cerebro."
+  },
+  {
+    "id": 3,
+    "nombre": "Águila Real",
+    "nombreCientifico": "Aquila chrysaetos",
+    "imagen": "img/animales/aguilareal.png",
+    "categoria": "Ave",
+    "habitat": "Montañas y desiertos",
+    "datoCurioso": "Es el símbolo del Escudo Nacional de México. Puede alcanzar velocidades de más de 240 km/h en picada."
+  },
+  {
+    "id": 4,
+    "nombre": "Quetzal",
+    "nombreCientifico": "Pharomachrus mocinno",
+    "imagen": "img/animales/quetzal.png",
+    "categoria": "Ave",
+    "habitat": "Bosques nublados de Chiapas",
+    "datoCurioso": "Era sagrado para las culturas maya y azteca. Su nombre significa 'pluma preciosa'."
+  },
+  {
+    "id": 5,
+    "nombre": "Vaquita Marina",
+    "nombreCientifico": "Phocoena sinus",
+    "imagen": "img/animales/vaca_del_agua.png",
+    "categoria": "Marino",
+    "habitat": "Alto Golfo de California",
+    "datoCurioso": "Es el mamífero marino más pequeño del mundo y se encuentra en peligro crítico de extinción."
+  },
+  {
+    "id": 6,
+    "nombre": "Lobo Mexicano",
+    "nombreCientifico": "Canis lupus baileyi",
+    "imagen": "img/animales/lobito.png",
+    "categoria": "Mamífero",
+    "habitat": "Bosques y desiertos de Sonora y Chihuahua",
+    "datoCurioso": "Es la subespecie de lobo gris más pequeña de Norteamérica. Estuvo casi extinto en estado salvaje."
+  },
+  {
+    "id": 7,
+    "nombre": "Mariposa Monarca",
+    "nombreCientifico": "Danaus plexippus",
+    "imagen": "img/animales/Mariposa-Monarca.png",
+    "categoria": "Insecto",
+    "habitat": "Bosques de Oyamel en Michoacán (invierno)",
+    "datoCurioso": "Viaja más de 4,000 km desde Canadá y EE.UU. para hibernar en México."
+  },
+  {
+    "id": 8,
+    "nombre": "Xoloitzcuintle",
+    "nombreCientifico": "Canis lupus familiaris",
+    "imagen": "img/animales/xoloitzcuinte.png",
+    "categoria": "Mamífero",
+    "habitat": "Doméstico, originario de México",
+    "datoCurioso": "Es una raza de perro sin pelo con más de 3,500 años de antigüedad. Se creía que guiaba a las almas al inframundo."
+  },
+  {
+    "id": 9,
+    "nombre": "Serpiente de Cascabel",
+    "nombreCientifico": "Crotalus durissus",
+    "imagen": "img/animales/cascabel.png",
+    "categoria": "Reptil",
+    "habitat": "Zonas áridas y semiáridas",
+    "datoCurioso": "Su 'cascabel' está formado por segmentos de queratina que se añaden con cada muda de piel."
+  },
+  {
+    "id": 10,
+    "nombre": "Ocelote",
+    "nombreCientifico": "Leopardus pardalis",
+    "imagen": "img/animales/ocelote.png",
+    "categoria": "Mamífero",
+    "habitat": "Selvas húmedas y manglares",
+    "datoCurioso": "Es un cazador nocturno y solitario. A diferencia de otros felinos, es un excelente nadador."
+  },
+  {
+    "id": 11,
+    "nombre": "Teporingo",
+    "nombreCientifico": "Romerolagus diazi",
+    "imagen": "img/animales/teporingo.png",
+    "categoria": "Mamífero",
+    "habitat": "Pastizales en las faldas de volcanes (Eje Neovolcánico)",
+    "datoCurioso": "También conocido como 'conejo de los volcanes', es uno de los conejos más pequeños del mundo."
+  },
+  {
+    "id": 12,
+    "nombre": "Guacamaya Roja",
+    "nombreCientifico": "Ara macao",
+    "imagen": "img/animales/guacamaya.png",
+    "categoria": "Ave",
+    "habitat": "Selvas tropicales del sureste (Chiapas, Oaxaca)",
+    "datoCurioso": "Son aves muy longevas, pudiendo vivir entre 50 y 75 años en cautiverio."
+  },
+  {
+    "id": 13,
+    "nombre": "Cacomixtle",
+    "nombreCientifico": "Bassariscus astutus",
+    "imagen": "img/animales/cacomixtle.png",
+    "categoria": "Mamífero",
+    "habitat": "Bosques y zonas suburbanas",
+    "datoCurioso": "Sus tobillos pueden girar 180 grados, lo que le permite descender de los árboles cabeza abajo."
+  },
+  {
+    "id": 14,
+    "nombre": "Iguana Verde",
+    "nombreCientifico": "Iguana iguana",
+    "imagen": "img/animales/iguano.png",
+    "categoria": "Reptil",
+    "habitat": "Zonas tropicales y costeras",
+    "datoCurioso": "Puede caer desde 15 metros de altura sin lastimarse y es una excelente nadadora."
+  },
+  {
+    "id": 15,
+    "nombre": "Tiburón Ballena",
+    "nombreCientifico": "Rhincodon typus",
+    "imagen": "img/animales/tiburoncin.png",
+    "categoria": "Marino",
+    "habitat": "Mares cálidos (Caribe Mexicano)",
+    "datoCurioso": "Es el pez más grande del mundo. Se alimenta filtrando plancton y pequeños peces."
+  },
+  {
+    "id": 16,
+    "nombre": "Mono Araña",
+    "nombreCientifico": "Ateles geoffroyi",
+    "imagen": "img/animales/monadas.png",
+    "categoria": "Mamífero",
+    "habitat": "Selvas altas del sur de México",
+    "datoCurioso": "Usa su cola prensil como una quinta extremidad para colgarse y moverse entre los árboles."
+  },
+  {
+    "id": 17,
+    "nombre": "Cenzontle",
+    "nombreCientifico": "Mimus polyglottos",
+    "imagen": "img/animales/cenzontle.png",
+    "categoria": "Ave",
+    "habitat": "Diversos, desde jardines hasta zonas áridas",
+    "datoCurioso": "Su nombre náhuatl significa 'ave de las 400 voces'. Puede imitar cantos de otras aves y sonidos."
+  },
+  {
+    "id": 18,
+    "nombre": "Coyote",
+    "nombreCientifico": "Canis latrans",
+    "imagen": "img/animales/coyote.png",
+    "categoria": "Mamífero",
+    "habitat": "Desiertos, praderas y zonas urbanas",
+    "datoCurioso": "Es extremadamente adaptable y ha expandido su territorio por todo Norteamérica."
+  },
+  {
+    "id": 19,
+    "nombre": "Tortuga Caguama",
+    "nombreCientifico": "Caretta caretta",
+    "imagen": "img/animales/caguama.png",
+    "categoria": "Reptil",
+    "habitat": "Océanos (anida en playas de Quintana Roo)",
+    "datoCurioso": "Las hembras regresan a la misma playa donde nacieron para poner sus propios huevos."
+  },
+  {
+    "id": 20,
+    "nombre": "Colibrí",
+    "nombreCientifico": "Archilochus colubris",
+    "imagen": "img/animales/colibri.png",
+    "categoria": "Ave",
+    "habitat": "Jardines y bosques",
+    "datoCurioso": "Puede batir sus alas más de 50 veces por segundo y es el único pájaro que puede volar hacia atrás."
+  },
+  {
+    "id": 21,
+    "nombre": "Mapache de Cozumel",
+    "nombreCientifico": "Procyon pygmaeus",
+    "imagen": "img/animales/mapachecozumel.png",
+    "categoria": "Mamífero",
+    "habitat": "Isla de Cozumel",
+    "datoCurioso": "Es una especie enana endémica de la isla de Cozumel, mucho más pequeña que el mapache común."
+  },
+  {
+    "id": 22,
+    "nombre": "Tucán Pico Canoa",
+    "nombreCientifico": "Ramphastos sulfuratus",
+    "imagen": "img/animales/tucan.png",
+    "categoria": "Ave",
+    "habitat": "Selvas húmedas del sureste",
+    "datoCurioso": "Su pico, aunque parece pesado, es increíblemente ligero ya que está hecho de queratina sobre una estructura hueca."
+  },
+  {
+    "id": 23,
+    "nombre": "Tapir",
+    "nombreCientifico": "Tapirus bairdii",
+    "imagen": "img/animales/tapir.png",
+    "categoria": "Mamífero",
+    "habitat": "Selvas de Chiapas y Oaxaca",
+    "datoCurioso": "Es pariente de los caballos y rinocerontes. Usa su pequeña trompa para arrancar hojas y frutos."
+  },
+  {
+    "id": 24,
+    "nombre": "Coatí",
+    "nombreCientifico": "Nasua narica",
+    "imagen": "img/animales/coati.png",
+    "categoria": "Mamífero",
+    "habitat": "Bosques y selvas",
+    "datoCurioso": "Son animales muy sociales que viven en grandes grupos. Usan su larga cola para mantener el equilibrio."
+  },
+  {
+    "id": 25,
+    "nombre": "Pez Sapo de Cozumel",
+    "nombreCientifico": "Sanopus splendidus",
+    "imagen": "img/animales/cozumel_pez.png",
+    "categoria": "Marino",
+    "habitat": "Arrecifes de coral en Cozumel",
+    "datoCurioso": "Es un pez endémico de Cozumel, conocido por sus colores brillantes y su capacidad de 'cantar' bajo el agua."
+  },
+  {
+    "id": 26,
+    "nombre": "Zopilote Rey",
+    "nombreCientifico": "Sarcoramphus papa",
+    "imagen": "img/animales/zopilote.png",
+    "categoria": "Ave",
+    "habitat": "Selvas tropicales",
+    "datoCurioso": "A diferencia de otros zopilotes, es muy colorido. En las carroñas, los demás zopilotes le ceden el paso."
+  },
+  {
+    "id": 27,
+    "nombre": "Cocodrilo de Morelet",
+    "nombreCientifico": "Crocodylus moreletii",
+    "imagen": "img/animales/cocodrilo.png",
+    "categoria": "Reptil",
+    "habitat": "Pantanos, ríos y lagunas (costa del Golfo)",
+    "datoCurioso": "Fue salvado de la extinción gracias a programas de conservación y granjas especializadas."
+  },
+  {
+    "id": 28,
+    "nombre": "Berrendo",
+    "nombreCientifico": "Antilocapra americana sonoriensis",
+    "imagen": "img/animales/berrendo.png",
+    "categoria": "Mamífero",
+    "habitat": "Desiertos de Sonora y Baja California",
+    "datoCurioso": "Es el animal terrestre más rápido de América, alcanzando velocidades de hasta 90 km/h."
+  },
+  {
+    "id": 29,
+    "nombre": "Armadillo",
+    "nombreCientifico": "Dasypus novemcinctus",
+    "imagen": "img/animales/armadillo.png",
+    "categoria": "Mamífero",
+    "habitat": "Bosques y matorrales",
+    "datoCurioso": "Su 'armadura' está hecha de placas óseas. Cuando se asustan, pueden saltar verticalmente en el aire."
+  },
+  {
+    "id": 30,
+    "nombre": "Abeja Maya (Melipona)",
+    "nombreCientifico": "Melipona beecheii",
+    "imagen": "img/animales/melipona.png",
+    "categoria": "Insecto",
+    "habitat": "Península de Yucatán",
+    "datoCurioso": "Es una abeja nativa sin aguijón que era sagrada para los mayas, quienes la cultivaban por su miel medicinal."
+  }
+]
