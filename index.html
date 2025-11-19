@@ -1,0 +1,89 @@
+<!--RECORDATORIO PARA MI RECUERDA DESCARGAR DE NUEVO LOS SONIDOS POR QUE LOS ELIMINASTE YA QUE NO TE GUSTARON -->
+
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faunadex - Animales de México</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="main.js" defer></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Press+Start+2P&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="container">
+        <!--MOSTRAR AL equipo que pokebola les gusta mas -->
+        <img src="img/pokebal2.png" alt="Abrir Menú" id="menu-toggle" class="menu-toggle">
+        <a href="/" class="logo">
+            <img src="img/Pokédex_logo.png" alt="Logo Pokedex">
+        </a>
+        <!-- Intentar añadir bos para el logo de una lupa o tratar de poner el que ya tienes -->
+        <div class="buscador-container">
+             <img src="img/lupa.png" alt="bu" id="buu" >
+            <input type="search" id="buscador" placeholder="Buscar animal...">
+        </div>
+    </header>
+    
+    <!--Menu animales -->
+    <nav id="menu-categorias" class="menu-categorias">
+        <h3>TIPOS</h3>
+        <ul>
+            <li><a href="#" class="filtro-categoria" data-categoria="Todos">Todos</a></li>
+            <li><a href="#" class="filtro-categoria" data-categoria="Mamífero">Mamíferos</a></li>
+            <li><a href="#" class="filtro-categoria" data-categoria="Ave">Aves</a></li>
+            <li><a href="#" class="filtro-categoria" data-categoria="Reptil">Reptiles</a></li>
+            <li><a href="#" class="filtro-categoria" data-categoria="Anfibio">Anfibios</a></li>
+            <li><a href="#" class="filtro-categoria" data-categoria="Marino">Vida Marina</a></li>
+            <li><a href="#" class="filtro-categoria" data-categoria="Insecto">Insectos</a></li>
+        </ul>
+        <!--Juego para menu hamburguesa -->
+
+        <h3 style="margin-top: 20px;">MINIJUEGO</h3>
+        <ul>
+            <li><a href="#" id="start-game-btn">¿Quién es este animal?</a></li>
+        </ul>
+        </nav>
+<!--Carusel manual investigar como poner el automatico -->
+    <main class="container">
+        <div id="animal-carousel" class="carousel-container">
+            <div class="carousel-slides">
+                </div>
+            <button id="prev-btn" class="carousel-btn prev">&lt;</button>
+            <button id="next-btn" class="carousel-btn next">&gt;</button>
+        </div>
+        <!--para que se vean en cuadritos -->
+        <div id="pokedex-grid" class="pokedex-grid">
+            </div>
+    </main>
+
+    <div id="modal-detalle" class="modal-overlay">
+        <div class="modal-contenido">
+            <button id="modal-cerrar" class="modal-cerrar">&times;</button>
+            <div id="modal-cuerpo" class="modal-cuerpo">
+                </div>
+        </div>
+    </div>
+
+    <div id="game-overlay" class="game-overlay">
+        <div class="game-content">
+            <button id="game-exit-btn" class="game-exit-btn">&times; Salir</button>
+            <h2>¿Quién es este animal?</h2>
+            
+            <div id="silhouette-container">
+                <img src="" alt="Silueta del animal" id="silhouette-img">
+            </div>
+            
+            <div id="choice-buttons" class="choice-buttons">
+                </div>
+            
+            <div id="game-feedback"></div>
+            
+            <button id="next-animal-btn" class="next-animal-btn">Siguiente</button>
+        </div>
+    </div>
+    </body>
+</html>
