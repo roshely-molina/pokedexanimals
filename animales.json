@@ -111,7 +111,7 @@
     "id": 13,
     "nombre": "Cacomixtle",
     "nombreCientifico": "Bassariscus astutus",
-    "imagen": "img/animales/cacomixtle.png",
+    "imagen": "img/animales/Cacomixtle.png",
     "categoria": "Mamífero",
     "habitat": "Bosques y zonas suburbanas",
     "datoCurioso": "Sus tobillos pueden girar 180 grados, lo que le permite descender de los árboles cabeza abajo."
@@ -269,4 +269,5 @@
     "habitat": "Península de Yucatán",
     "datoCurioso": "Es una abeja nativa sin aguijón que era sagrada para los mayas, quienes la cultivaban por su miel medicinal."
   }
+
 ]
