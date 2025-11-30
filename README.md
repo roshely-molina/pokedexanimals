@@ -1,2 +1,2 @@
 # pokedexanimals
-proyecto de animales mexicanos trabajado con javascripy,html y css
+proyecto para taller de investigación 1
